@@ -1,6 +1,6 @@
-# 👗 Fashion Recommender System
+# 👗 Fashion Recommendation System
 
-The **Fashion Recommender System** is an AI-powered application that suggests similar fashion items based on an uploaded image. It utilizes **ResNet50** for feature extraction and **KNN (K-Nearest Neighbors)** for similarity search.
+The **Fashion Recommendation System** is an AI-powered application that suggests similar fashion items based on an uploaded image. It utilizes **ResNet50** for feature extraction and **KNN (K-Nearest Neighbors)** for similarity search.
 
 ## 🚀 Features
 - **Deep Learning-Based Image Feature Extraction** (ResNet50)
